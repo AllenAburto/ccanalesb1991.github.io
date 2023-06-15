@@ -1,6 +1,5 @@
 body {
   font-family: "Raleway", sans-serif;
-
 }
 
 /* Presentación Section */
@@ -9,11 +8,9 @@ body {
 }
 
 #start img {
-
   filter: blur(5px) brightness(60%);
   width: 100%;
   height: 100vh;
-
 }
 
 #floattext {
@@ -22,28 +19,23 @@ body {
   right: 5%;
 
   text-align: end;
-
 }
 
 #about-me {
-
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh;
-
 }
 
 #about-me img {
-
   width: 25%;
 }
 
 /* Mis trabajos */
 
 #experience {
-
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -51,15 +43,12 @@ body {
   height: 100vh;
 }
 
-
 .holi {
-
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  
 }
 
 .image-top {
@@ -67,13 +56,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-
 }
 
 /* Contacto */
 
 #contact {
-
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -83,13 +70,9 @@ body {
 }
 
 #contact form label {
-
   font-weight: 700;
   color: #373a3c;
-
 }
-
-
 
 .navbar-brand {
   width: 100px;
